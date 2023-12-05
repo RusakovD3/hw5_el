@@ -37,6 +37,9 @@ int IsPassOk(void){
 
 ## Disassemble
 ![Screenshot 2023-12-05 102206](https://github.com/RusakovD3/hw5_el/assets/103295869/9e621f92-b23b-4fc4-83f5-c41fb339d986)
+
 Адрес возврата функции IsPassOk по дефолту: 0x0000555555555185
+
 ![Screenshot 2023-12-05 104930](https://github.com/RusakovD3/hw5_el/assets/103295869/08bed180-d104-4fb1-b8e9-4a1315a9424e)
+
 Мне же нужно изменить его на 0x00005555555551ae (адрес успешно подобраного пароля)
