@@ -31,3 +31,5 @@ int IsPassOk(void){
   return 0 == strcmp(Pass, "test");
 }
 ```
+## Компиляция
+![Screenshot 2023-12-05 101346](https://github.com/RusakovD3/hw5_el/assets/103295869/ad85d0a3-5213-407f-9bd9-c6e9f6cea975)
